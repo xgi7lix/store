@@ -1,0 +1,21 @@
+{
+  "name": "Eleven Store",
+  "short_name": "Eleven",
+  "description": "متجر إليفن الإلكتروني - تسوق أفضل المنتجات",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c9a24d",
+  "icons": [
+    {
+      "src": "/public/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
